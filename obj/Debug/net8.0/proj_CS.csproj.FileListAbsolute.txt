@@ -1,0 +1,14 @@
+C:\Users\AVYAAN.COM\Desktop\proj_CS\bin\Debug\net8.0\proj_CS.exe
+C:\Users\AVYAAN.COM\Desktop\proj_CS\bin\Debug\net8.0\proj_CS.deps.json
+C:\Users\AVYAAN.COM\Desktop\proj_CS\bin\Debug\net8.0\proj_CS.runtimeconfig.json
+C:\Users\AVYAAN.COM\Desktop\proj_CS\bin\Debug\net8.0\proj_CS.dll
+C:\Users\AVYAAN.COM\Desktop\proj_CS\bin\Debug\net8.0\proj_CS.pdb
+C:\Users\AVYAAN.COM\Desktop\proj_CS\obj\Debug\net8.0\proj_CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AVYAAN.COM\Desktop\proj_CS\obj\Debug\net8.0\proj_CS.AssemblyInfoInputs.cache
+C:\Users\AVYAAN.COM\Desktop\proj_CS\obj\Debug\net8.0\proj_CS.AssemblyInfo.cs
+C:\Users\AVYAAN.COM\Desktop\proj_CS\obj\Debug\net8.0\proj_CS.csproj.CoreCompileInputs.cache
+C:\Users\AVYAAN.COM\Desktop\proj_CS\obj\Debug\net8.0\proj_CS.dll
+C:\Users\AVYAAN.COM\Desktop\proj_CS\obj\Debug\net8.0\refint\proj_CS.dll
+C:\Users\AVYAAN.COM\Desktop\proj_CS\obj\Debug\net8.0\proj_CS.pdb
+C:\Users\AVYAAN.COM\Desktop\proj_CS\obj\Debug\net8.0\proj_CS.genruntimeconfig.cache
+C:\Users\AVYAAN.COM\Desktop\proj_CS\obj\Debug\net8.0\ref\proj_CS.dll
