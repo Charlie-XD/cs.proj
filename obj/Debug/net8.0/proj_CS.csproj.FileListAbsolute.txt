@@ -12,3 +12,4 @@ C:\Users\AVYAAN.COM\Desktop\proj_CS\obj\Debug\net8.0\refint\proj_CS.dll
 C:\Users\AVYAAN.COM\Desktop\proj_CS\obj\Debug\net8.0\proj_CS.pdb
 C:\Users\AVYAAN.COM\Desktop\proj_CS\obj\Debug\net8.0\proj_CS.genruntimeconfig.cache
 C:\Users\AVYAAN.COM\Desktop\proj_CS\obj\Debug\net8.0\ref\proj_CS.dll
+C:\Users\AVYAAN.COM\Desktop\proj_CS\obj\Debug\net8.0\proj_CS.sourcelink.json
